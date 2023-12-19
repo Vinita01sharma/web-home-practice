@@ -1,0 +1,50 @@
+Operator means to operate your data.
+
+Arithmetic Operators:-
+         Operator                         Descripition
+            +                               Addition
+            -                               Subtration
+            *                               Multiplication
+            /                               Division
+            %                               Modules(reminder)
+            ++                              Increment
+            --                              Decrement
+
+
+
+Assignment Operators:-
+         Operator                         Descripition
+             =                               Assign
+             +=                            add and assign
+             -=                           Subtract and assign
+             *=                          Multiply and assign 
+             /=                          Division and assign
+             %=                            Modules and assign
+
+
+
+Comparision Operators:-
+         Operator                         Descripition
+            <                               less than 
+            >                              greater than
+            <=                            less than equal to
+            >=                           greater than equal to 
+            ==                            equl to 
+            !=                            not equal to
+            ===                           identical equal to 
+            !==                         not identical equal to
+
+
+Logical Operators:-
+         Operator                         Descripition
+           &&                               Logical and
+           ||                               Logical or
+           !                                Logical not
+
+
+Bitwise Operators:-
+         Operator                         Descripition
+           &                              Bitwise and
+           |                              Bitwise or
+           ^                              Bitwise Xor
+           ~                              Bitwise not
