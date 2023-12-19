@@ -1,0 +1,35 @@
+Why css is used ?
+=> css is uded to make design, used to make a responsive website.
+     to create a sections / partitions , to create an animation, transformation of an element.
+
+CSS => Cascading style sheet.
+
+CSS and CSS3 => in CSS there is a basic properties like border, color, margin, padding, etc...
+             => in CSS3 there is advance properties to make website responsive like display-flex, display-grid, media query etc....
+
+
+How many types or ways to add css in webpage?
+(1)inline => which is applied in element / tag using style attribute.
+(2)internal => using <style> tag in <head> section.
+(3)external => create an external file using, css extention and attach / link with <link> tag in html file.
+
+
+Syntax:-
+(1)inline =>
+          style = "property : value;"
+
+(2)internal/ external =>
+                    selector{
+                        property : value;"
+                    }
+
+
+
+How many types of selector ?
+(1)Universal / global selector
+(2)element selector
+(3)class selector
+(4)id selector
+(5)group selector
+(6)attribute selector
+(7)decendent selector
