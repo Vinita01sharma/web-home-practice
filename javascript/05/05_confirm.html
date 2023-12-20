@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="confirmfun()">confirm box</button>
+    <h1 id="msg"></h1>
+
+    <script>
+        function confirmfun(){
+            if (confirm("click on any button!!!")==true) {
+                alert("you clicked on ok")
+                document.getElementById("msg").innerHTML="go to next page"
+            }else{
+                alert("you clicked on cancle")
+                document.getElementById("msg").innerHTML="can not go to the next page"
+            }
+        }
+    </script>
+</body>
+</html>

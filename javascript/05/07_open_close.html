@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="openfun()">open</button>
+    <button onclick="">close</button>
+
+    <script>
+        var openlink = "https://www.google.com/search?q=bootstrap&oq=&gs_lcrp=EgZjaHJvbWUqCQgCECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQo0NzU2NzdqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8"
+        var closelink
+        function openfun() {
+            closelink = window.open(openlink,"_blank")
+        }
+        function closefun(){
+            closelink.windows.close()
+        }
+    
+    </script>
+
+</body>
+</html>
