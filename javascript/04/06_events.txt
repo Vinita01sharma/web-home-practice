@@ -1,0 +1,42 @@
+The change in the statement of an object is known as an event.
+
+Javascript over these events and allow the execution. This process of reaction over the events is called event handling.
+
+Javascript handles the HTML events via Event Handlers.
+
+there is 4 types of events:-
+    (1) mouse
+    (2) keyboard
+    (3) form
+    (4) window
+
+
+    Mouse events:-
+Event perform                     Event Handler
+  click                               onclick
+  dblclick                            ondblclick
+  mouseover                           onmouseover
+  mouseleave                          onmouseleave
+  mouseenter                          onmouseenter
+
+
+  Keyboard events:-
+Event perform                     Event Handler
+  keyup                              onkeyup 
+  keydown                            onkeydown
+  keypress                           onkeypress
+
+
+   Form events:-
+Event perform                     Event Handler
+   submit                            onsubmit
+   blur                              onblur
+   change                            onchange
+   focus                             onfocus
+
+
+   Windos events:-
+Event perform                     Event Handler
+  load                                onload
+  unload                              onunload
+  resize                              onresize

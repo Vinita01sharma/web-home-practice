@@ -1,0 +1,21 @@
+Selectors :-
+(1)get element by id()
+(2)query selector()
+(3)query selector all()
+(4)get element by class name()
+(5)get element by tag()
+(6)get element by name()
+
+2 properties is used to print value on structure:-
+      (1)inerHTML
+      (2)inerText
+
+Classlist property is used to add css on webpage in Javascript.
+
+To add or remove values from the webpage use predefine functions :-
+      (1)add()
+      (2)remove()
+      (3)toggle()
+      (4)contains()
+
+      
